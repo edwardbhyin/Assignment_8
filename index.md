@@ -1,5 +1,5 @@
-# My Web Map
+# DC Shopping Centers Interactive Map
 
-Welcome to my web map! Below is the interactive map I created using Folium.
+This is a map of all the shopping centers in DC
 
-<a href="https://edwardbhyin.github.io/Assigment_8/dc_shops.html" width="100%" height="600px"target="_blank">Open Web Map</a>
+<iframe src = 'dc_shops.html' width = '500' height = '500' ></iframe>
